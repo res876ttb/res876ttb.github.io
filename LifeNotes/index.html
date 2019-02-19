@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<!-- index.html -->
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+		<title>LifeNotes</title>
+	</head>
+
+	<body>
+    <div id="root"></div>
+  </body>
+	
+	<!-- fold math block -->
+	<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        jax: ["input/TeX", "output/HTML-CSS","output/NativeMML","output/SVG"],
+        extensions: ["MathMenu.js","MathZoom.js", "AssistiveMML.js", "a11y/accessibility-menu.js"],
+        TeX: {
+            extensions: ["AMSmath.js","AMSsymbols.js","noErrors.js","noUndefined.js"]
+        }
+    });
+  </script>
+	
+	<!-- load main js -->
+	<script type="text/javascript" src="./dist/vendor.bundle.js"></script>
+  <script type="text/javascript" src="./dist/index.bundle.js "></script>
+  <script type="text/javascript" src="./vender/jquery.min.js"></script>
+  
+  <!-- load fontawesome -->
+  <link rel="stylesheet" href="./api/fontawesome/css/all.min.css">
+
+</html>
