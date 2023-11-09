@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.719a18ad.chunk.css",
-    "main.js": "/static/js/main.3eca8e92.chunk.js",
-    "main.js.map": "/static/js/main.3eca8e92.chunk.js.map",
+    "main.js": "/static/js/main.9ff811c7.chunk.js",
+    "main.js.map": "/static/js/main.9ff811c7.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4ee3d110.js",
     "runtime-main.js.map": "/static/js/runtime-main.4ee3d110.js.map",
     "static/css/2.57d81368.chunk.css": "/static/css/2.57d81368.chunk.css",
-    "static/js/2.bd67207c.chunk.js": "/static/js/2.bd67207c.chunk.js",
-    "static/js/2.bd67207c.chunk.js.map": "/static/js/2.bd67207c.chunk.js.map",
+    "static/js/2.0785df42.chunk.js": "/static/js/2.0785df42.chunk.js",
+    "static/js/2.0785df42.chunk.js.map": "/static/js/2.0785df42.chunk.js.map",
     "static/js/3.82086c47.chunk.js": "/static/js/3.82086c47.chunk.js",
     "static/js/3.82086c47.chunk.js.map": "/static/js/3.82086c47.chunk.js.map",
     "mode-livescript.js": "/00f32d088488515ac84b1ffe7fc0ec0d.js",
@@ -427,14 +427,14 @@
     "index.html": "/index.html",
     "static/css/2.57d81368.chunk.css.map": "/static/css/2.57d81368.chunk.css.map",
     "static/css/main.719a18ad.chunk.css.map": "/static/css/main.719a18ad.chunk.css.map",
-    "static/js/2.bd67207c.chunk.js.LICENSE.txt": "/static/js/2.bd67207c.chunk.js.LICENSE.txt",
+    "static/js/2.0785df42.chunk.js.LICENSE.txt": "/static/js/2.0785df42.chunk.js.LICENSE.txt",
     "static/media/katex.css": "/static/media/KaTeX_Typewriter-Regular.b6a56b14.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.4ee3d110.js",
     "static/css/2.57d81368.chunk.css",
-    "static/js/2.bd67207c.chunk.js",
+    "static/js/2.0785df42.chunk.js",
     "static/css/main.719a18ad.chunk.css",
-    "static/js/main.3eca8e92.chunk.js"
+    "static/js/main.9ff811c7.chunk.js"
   ]
 }
